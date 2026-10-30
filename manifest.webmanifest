@@ -1,0 +1,10 @@
+{
+  "name": "My Daily Manager",
+  "short_name": "Daily Manager",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#10172a",
+  "description": "Offline personal manager for notes, work, study, reports and travel.",
+  "icons": []
+}
